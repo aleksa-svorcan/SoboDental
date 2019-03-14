@@ -1,0 +1,139 @@
+[{
+  "id": 12,
+  "type": "service",
+  "fields": {
+    "title": "Bondings"
+  }
+}, {
+  "id": 33,
+  "type": "service",
+  "fields": {
+    "title": "Cleanings"
+  }
+}, {
+  "id": 34,
+  "type": "service",
+  "fields": {
+    "title": "Crowns, bridges"
+  }
+}, {
+  "id": 35,
+  "type": "service",
+  "fields": {
+    "title": "Dentures - traditional and implant supported \/ hybrids"
+  }
+}, {
+  "id": 36,
+  "type": "service",
+  "fields": {
+    "title": "Digital impressions - intraoral scanner"
+  }
+}, {
+  "id": 37,
+  "type": "service",
+  "fields": {
+    "title": "Digital X-rays"
+  }
+}, {
+  "id": 38,
+  "type": "service",
+  "fields": {
+    "title": "Fillings"
+  }
+}, {
+  "id": 39,
+  "type": "service",
+  "fields": {
+    "title": "Frenectomies"
+  }
+}, {
+  "id": 40,
+  "type": "service",
+  "fields": {
+    "title": "Full mouth reconstruction"
+  }
+}, {
+  "id": 41,
+  "type": "service",
+  "fields": {
+    "title": "Invisalign - Clear braces"
+  }
+}, {
+  "id": 42,
+  "type": "service",
+  "fields": {
+    "title": "Implants"
+  }
+}, {
+  "id": 43,
+  "type": "service",
+  "fields": {
+    "title": "Nightguards - detailed diagnostics and selection of appropriate appliance"
+  }
+}, {
+  "id": 44,
+  "type": "service",
+  "fields": {
+    "title": "Pediatric dentistry"
+  }
+}, {
+  "id": 45,
+  "type": "service",
+  "fields": {
+    "title": "Preventive - early diagnostics, oral hygiene instructions"
+  }
+}, {
+  "id": 46,
+  "type": "service",
+  "fields": {
+    "title": "Retainers"
+  }
+}, {
+  "id": 47,
+  "type": "service",
+  "fields": {
+    "title": "Root canal treatment - endodontics"
+  }
+}, {
+  "id": 48,
+  "type": "service",
+  "fields": {
+    "title": "Scaling and Root planing"
+  }
+}, {
+  "id": 49,
+  "type": "service",
+  "fields": {
+    "title": "Snore appliances"
+  }
+}, {
+  "id": 50,
+  "type": "service",
+  "fields": {
+    "title": "Transillumination technology for caries detection"
+  }
+}, {
+  "id": 51,
+  "type": "service",
+  "fields": {
+    "title": "Veneers - ceramic and composite; working with master technicians"
+  }
+}, {
+  "id": 52,
+  "type": "service",
+  "fields": {
+    "title": "Whitening systems"
+  }
+}, {
+  "id": 10,
+  "type": "service",
+  "fields": {
+    "title": "All-on-4\" dental implant reconstruction"
+  }
+}, {
+  "id": 11,
+  "type": "service",
+  "fields": {
+    "title": "Athletic mouthguards"
+  }
+}]

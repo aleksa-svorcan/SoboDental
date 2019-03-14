@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "type": "testemonial",
+  "fields": {
+    "user": "Kristen",
+    "content":"Everyone was very nice and helpful. I went for a cleaning and it was very fast."
+  }
+},{
+  "id": 2,
+  "type": "testemonial",
+  "fields": {
+    "user": "Carol",
+    "content": "Very friendly,extremely thorough, never a hard up-sell,very informative and very caring"
+  }
+},{
+  "id": 3,
+  "type": "testemonial",
+  "fields": {
+    "user": "Mary",
+    "content": "Karen does an excellent job,very professional. I highly recomment SoBo Dental. Excellent care"
+  }
+}]

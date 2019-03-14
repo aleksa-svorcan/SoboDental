@@ -1,0 +1,64 @@
+[{
+  "id": 3,
+  "type": "fact",
+  "fields": {
+    "image": "welcoming.jpg",
+    "color": "#f6ca4b",
+    "title": "Welcoming",
+    "content": "<ul><li>Friendly and helping staff<br><\/li><li>Convenient appointments (Evening hours, Saturdays)<br><\/li><li>Comfortable environment<br><\/li><\/ul>"
+  }
+}, {
+  "id": 4,
+  "type": "fact",
+  "fields": {
+    "image": "care.jpg",
+    "color": "#f7585a",
+    "title": "Exceptional care",
+    "content": "<ul><li>Dedicated dental team<br><\/li><li>Committed to service<br><\/li><li>Passionate<br><\/li><\/ul>"
+  }
+}, {
+  "id": 5,
+  "type": "fact",
+  "fields": {
+    "image": "advice.jpg",
+    "color": "#b05c90",
+    "title": "Immediate and attentive care",
+    "content": "<ul><li>Same day emergency treatment<br><\/li><li>Our Doctors On-call<br><\/li><li>24 hour service<br><\/li><\/ul>"
+  }
+}, {
+  "id": 6,
+  "type": "fact",
+  "fields": {
+    "image": "safety.jpg",
+    "color": "#f6ca4b",
+    "title": "Your safety and protection",
+    "content": "<ul><li>Instrument Sterilization and Infection Control<br><\/li><li>Pain free numbing<br><\/li><li>Superbly trained technicians<br><\/li><\/ul>"
+  }
+}, {
+  "id": 7,
+  "type": "fact",
+  "fields": {
+    "image": "expertise.jpg",
+    "color": "#f6ca4b",
+    "title": "Expertise and training",
+    "content": "<ul><li>Ongoing advanced training<\/li><li>Newest technologies and treatment<\/li><li>Finest products and materials<\/li><\/ul>"
+  }
+}, {
+  "id": 8,
+  "type": "fact",
+  "fields": {
+    "image": "family.jpg",
+    "color": "#f6ca4b",
+    "title": "Family friendly",
+    "content": "<ul><li>Families and individuals of all ages<br><\/li><li>Children as young as 1 years old<br><\/li><li>Your opinions and needs matter<br><\/li><\/ul>"
+  }
+}, {
+  "id": 9,
+  "type": "fact",
+  "fields": {
+    "image": "affordable.jpg",
+    "color": "#f6ca4b",
+    "title": "Making dentistry affordable",
+    "content": "<ul><li>Accepting most insurances and major credit cards<br><\/li><li>In-house discount dental plan for non-insured patients<br><\/li><li>5% senior courtesy for all patients over 65<br><\/li><\/ul>"
+  }
+}]

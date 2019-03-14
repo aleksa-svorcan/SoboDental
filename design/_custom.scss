@@ -1,0 +1,22 @@
+$width-unit: 100vw / $grid-columns;
+
+//logo padding
+$logo-padding: 1rem;
+$logo-padding-sm: 15px;
+$logo-padding-md: 25px;
+$logo-padding-lg: 40px;
+$logo-padding-xl: 55px;
+
+//logo width
+$logo-width: 1rem;
+$logo-width-sm: 30px;
+$logo-width-md: 50px;
+$logo-width-lg: 80px;
+$logo-width-xl: 110px;
+
+//logo column
+$logo-col-width: 2 * $logo-padding + $logo-width;
+$logo-col-width-sm: 2 * $logo-padding-sm + $logo-width-sm;
+$logo-col-width-md: 2 * $logo-padding-md + $logo-width-md;
+$logo-col-width-lg: 2 * $logo-padding-lg+ $logo-width-lg;
+$logo-col-width-xl: 2 * $logo-padding-xl + $logo-width-xl;

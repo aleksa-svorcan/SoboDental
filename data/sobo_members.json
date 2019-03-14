@@ -1,0 +1,184 @@
+[
+  {
+    "id": 22,
+    "type": "team_member",
+    "fields": {
+      "image" : "Dr.-Adamov.jpg",
+      "title": "Ivana Adamov DDS",
+      "slug": "ivana-adamov",
+      "first_name": "Ivana",
+      "last_name": "Adamov",
+      "group": "doctors",
+      "bio": "<p>Ivana Adamov, doctor of dental surgery DDS and owner of South of Boston Dental, brings to the practice an enthusiastic love of dentistry, commitment to education, and dedication to her patients\u2019 well-being.&nbsp; Her greatest joy is in the ability to improve dental health and seeing the confidence that results from a transformed smile.<\/p><p>SOBO has served the community for more than 30 years as a resource for generations of families who want the best of dental care.&nbsp; Dr. Adamov graduated from Ohio State as a Doctor of Dental Surgery, and joined the practice in 2005.<\/p><p>While practicing, Dr Adamov realized she had stumbled upon a unique, collaborative culture of good-natured, hard working, like-minded people. In 2010 she purchased the practice. Dr Adamov\u2019s kind and nurturing style has preserved this culture and fostered affection and respect from her staff.&nbsp; Her gentle, compassionate approach also extends to clients and is one reason patients keep coming back. The other, of course, is first-rate dentistry.&nbsp;<\/p><p>\u201cStriving for excellence in my field is an ongoing process.&nbsp; To implement the most up-to-date technology, you need extensive continuing education,\u201d she says.&nbsp; \u201cBy surrounding myself with colleagues who want to teach and learn, I\u2019m constantly inspired.&nbsp; As a result, I put my head, heart, and soul into my work.\u201d<\/p><p>To this end, Dr. Adamov has logged hundreds of hours of specialized clinical and practical training in fields of aesthetics, occlusion, implant and pediatric dentistry.<\/p><p>In addition to believing in the value of continuing education, Dr. Adamov is a strong proponent of active listening.<\/p><p>Because no two patients are alike, Dr. Adamov takes the time to know and listen to each of them.&nbsp; She respectfully learns about their health history and makes sure she understands their goals. Providing physical and emotional patient comfort is extremely important to Dr. Adamov.<\/p><p>Rather than enforcing a course of treatment, she works with her patients and encourages them to participate in their own dental decisions.&nbsp; To do this, she presents the situation clearly, without an overload of medical jargon.&nbsp; She recommends a number of options, invites questions, and with her patients \u2013 plans the next steps.<\/p><p>Dr. Adamov also believes that preventative care and preventative measures are essential in maintaining good dental health. Working with high-grade materials, advanced tools and a skilled team, she ensures that patients receive ongoing oral health care through regular dental visits and best practice instructions for oral hygiene.&nbsp;<\/p><p>To Dr. Adamov, a healthier mouth and bright smile are the keys to patient health, happiness, and self-esteem. She takes pride in her well orchestrated approach to esthetic cases and the remarkable changes that can be made to your smile.<\/p><p>Outside of the practice, Dr. Adamov enjoys travel, skiing and entertaining with family and friends. Dr Adamov looks forward to teaching her son to appreciate the wonders of the world including its cultures and the arts. Dr. Adamov brings her enthusiasm and passion for life into all of her endeavors. &nbsp;<\/p>"
+    }
+  },
+  {
+    "id": 53,
+    "type": "team_member",
+    "fields": {
+      "image" : "Dr.-Davidoff.jpg",
+      "title": "Annette Davidoff, DMD",
+      "slug": "annette-davidoff",
+      "first_name": "Annette",
+      "last_name": "Davidoff",
+      "group": "doctors",
+      "bio": "<p>Dr Davidoff has dentistry in her genes, having followed her dad who was a well known family practitioner for many years. There was no question that Dentistry, which combines an aptitude for science with that of artistry, and with the love of healing and helping people, would be Dr Davidoff\u2019s career choice. She is a 1984 graduate of the University of Pennsylvania School of Dental Medicine and Tufts University general practice residency in dentistry. She regularly attends a variety of dental continuing education courses and conferences to ensure she stays up to date. She skillfully balances new ideas and technology with her many years of experience. She is the consummate clinician. Dr Davidoff brings her extensive experience and knowledge to SOBO dental. She is proficient in all aspects of general dentistry, with special expertise in endodontics and full mouth reconstructions.<\/p><p>Dr Davidoff says: \u201cI was so lucky to find this place, so many years ago. I love my profession and it's such a gift to be able to perform the highest quality dentistry alongside colleagues who share my values. At SOBO we are a wonderful team of healers, helpers, learners, communicators, and artists. And we all love what we do!\u201d<\/p><p>Dr Davidoff lives in Sharon with her husband and has three grown children. Dr Davidoff loves to ski, travel, read good literature, and spend time with family.<\/p>"
+    }
+  },
+  {
+    "id": 54,
+    "type": "team_member",
+    "fields": {
+      "image": "Dr.-Mende.jpg",
+      "title": "Nadine Mende, DMD",
+      "slug": "nadine-mende",
+      "first_name": "Nadine",
+      "last_name": "Mende",
+      "group": "doctors",
+      "bio": "<p>&nbsp;Nadine Mende has been a general and restorative dentist with the practice for 25 years, caring for patients of all ages.<br><\/p><p>Holding &nbsp;a DMD from the University of Pennsylvania, School of Dental Medicine and a DDS from the University of Paris, School of Dental Surgery, Dr. Mende brings extensive education and experience to SOBO &nbsp;Dental. She is a long-time member of the Academy of General Dentistry and she enjoys following advances in dentistry by attending courses and conferences in the United States and France. Her clinical interests lie in reconstructing broken dentitions and esthetics.<\/p><p>Says Dr. Mende,&nbsp;\"I find great satisfaction in helping new patients becoming comfortable with dental care. I believe that good oral health has immense benefits beyond what you can see in a smile.\"<\/p><p>Married with two sons and fluent in French, she is an avid reader and art photographer. In her free time she also takes pleasure in hiking, skiing and cooking.<\/p>"
+    }
+  },
+  {
+    "id": 56,
+    "type": "team_member",
+    "fields": {
+      "image": "Manager-Linda.jpg",
+      "title": "Linda Donovan, Office Manager",
+      "slug": "linda-donovan",
+      "first_name": "Linda",
+      "last_name": "Donovan",
+      "group": "admin",
+      "bio": "<p>Linda has worked in dentistry since high school, starting as a certified dental assistant and changing gears to become well balanced office manager. Her career with a Milton practice, paused it to raise her family, and returned to it when her children were older. For Linda, dentistry has been a common thread that\u2019s run throughout her life. In 1997 she joined SOBO. \u201cI enjoy the interaction with our patients and working with a wonderful group of women,\u201d Linda says, noting that her professional journey has been a pleasure. When not managing the office, Linda enjoys her four children and grandchildren. She is particularly proud that her children, who now have careers of their own, serve in education, firefighting and law enforcement.<\/p>"
+    }
+  },
+  {
+    "id": 57,
+    "type": "team_member",
+    "fields": {
+      "image" : "Coordinator-Jackie.jpg",
+      "title": "Jackie Desmond, Patient Coordinator",
+      "slug": "jackie-desmond",
+      "first_name": "Jackie",
+      "last_name": "Desmond",
+      "group": "admin",
+      "bio": "<p>Jackie hails from Ireland where she lived in Dublin growing up. After coming to the United States, she moved to Milton, married, and started a family. Jackie joined SOBO in 2002, working the front desk and helping patients feel at home. \u201cI enjoy interacting with patients,\u201d Jackie says, noting that over the years she has grown to know many of them quite well. When not scheduling patients and answering their questions, Jackie likes to travel and spend time with friends. She is also very proud of her children who are embarking on careers of their own: the eldest an engineer, one in college, and one in high school.<\/p>"
+    }
+  },
+  {
+    "id": 58,
+    "type": "team_member",
+    "fields": {
+      "image" : "Coordinator-Chris.jpg",
+      "title": "Chris Sargo, Patient Coordinator",
+      "slug": "chris-sargo",
+      "first_name": "Chris",
+      "last_name": "Sargo",
+      "group": "admin",
+      "bio": "<p>Chris has been a part-time receptionist with SOBO for more than 25 years. Chris is an avid adventurer who loves the ocean, having traveled across the United States, visiting Europe and the Caribbean. She enjoys gardening, exercise, biking and baking where she is adept at cake decoration. Chris recently completed a certificate program in Event Planning which utilizes her organizational skills. She and her husband have two children, and chances are, you\u2019ll find her brushing with Sensodyne.<\/p>"
+    }
+  },
+  {
+    "id": 59,
+    "type": "team_member",
+    "fields": {
+      "image" : "Hygienist-Karen.jpg",
+      "title": "Karen Baker, RDH",
+      "slug": "karen-baker",
+      "first_name": "Karen",
+      "last_name": "Baker",
+      "group": "hygienists",
+      "bio": "<p>Karen has been working as a dental hygienist for 28 years and isn\u2019t shy about calling SOBO \u201cthe best dental office ever.\u201d \u201cWe have the most incredible dentists here and a staff that is kind, caring and gentle,\u201d she says. \u201cWhat I most enjoy about my job are my patients. I love when they say their teeth feel great after a cleaning.\u201d Karen's hobbies include crafts, tennis, gardening,&nbsp;and travel. Most people don\u2019t know that she\u2019s on a women\u2019s golf league, too, having tried the sport just a few years ago. \u201cMy biggest pleasure is being a mother of two beautiful daughters,\u201d Karen clarifies. A strong advocate of good oral hygiene, you\u2019ll likely find her wielding a Sonicare brush, using Crest Pro Health toothpaste and flossing with Glide.<\/p>"
+    }
+  },
+  {
+    "id": 60,
+    "type": "team_member",
+    "fields": {
+      "image" : "Hygienist-Darlene.jpg",
+      "title": "Darlene Weeks, RDH",
+      "slug": "darlene-weeks",
+      "first_name": "Darlene",
+      "last_name": "Weeks",
+      "group": "hygienists",
+      "bio": "<p>Darlene has watched SOBO evolve during her 25 years with the practice. \u201cI\u2019m very interested in the advances in dentistry over the years and look forward to more to come,\u201d she says. Darlene was actually a Dental Assistant for several years prior to going to Hygiene school. \u201cI really enjoy treating our young and adult patients to help them maintain good oral health and a healthy smile,\u201d she explains. What brings a smile to her own face, is spending time with her family which includes two married children, 3 grandsons, and 2 granddaughters. When not in the office, Darlene might be seen packing for her favorite vacation destination \u2013 \u201cany place where there are palm trees and beaches\u201d.<\/p>"
+    }
+  },
+  {
+    "id": 61,
+    "type": "team_member",
+    "fields": {
+      "image" : "hygineist-Danielle.jpg",
+      "title": "Danielle C. Mazzini, RDH, BS",
+      "slug": "danielle-mazzini",
+      "first_name": "Danielle",
+      "last_name": "Mazzini",
+      "group": "hygienists",
+      "bio": "<p>Danielle brings a wealth of education and world experience to SOBO where she has been with the practice for more than 16 years. Graduating the University of Rhode Island in 1998 with a Bachelor of Science and a degree in Dental Hygiene, Danielle also studied abroad in Perth, Australia. She and her husband live in Braintree with their 3 young children: two girls and a boy. Danielle delights in watching them play sports: gymnastics, soccer, lacrosse, and softball. When time allows, she enjoying traveling, cooking, skiing, working out, and playing volleyball.&nbsp; One of her favorite dental items is Glide Floss.<\/p>"
+    }
+  },
+  {
+    "id": 62,
+    "type": "team_member",
+    "fields": {
+      "image" : "hygineist-Kayla.jpg",
+      "title": "Kayla Kiley, RDH",
+      "slug": "kayla-kiley",
+      "first_name": "Kayla",
+      "last_name": "Kiley",
+      "group": "hygienists",
+      "bio": "<p>Kayla received her Bachelors degree in Dental Hygiene from MCPHS University. In addition to being a licensed Hygienist, she is licensed to administer local anesthesia. She has been in the dental field since 2009 starting as a dental assistant. Kayla enjoys educating her patients on their oral health and making their dental visits a great experience.&nbsp; In her free time, Kayla loves spending time with her friends and family, especially her nieces and nephew.<\/p>"
+    }
+  },
+  {
+    "id": 63,
+    "type": "team_member",
+    "fields": {
+      "image" : "Hygienist-Jess.jpg",
+      "title": "Jessica  Sargo, RDH",
+      "slug": "jessica-sargo",
+      "first_name": "Jessica",
+      "last_name": "Sargo",
+      "group": "hygienists",
+      "bio": "<p>After graduating from Cape Cod Community College twelve years ago, Jess began her career at SOBO. She has since earned a bachelor\u2019s degree in Nutrition, feeling it complements her dental training and her commitment to total body health. Hailing from Lakeville, MA, she loves the beach and traveling. Jess is a certified scuba diver who especially enjoys diving in the Caribbean. And above all she enjoys spending time with her husband and their new baby girl.<\/p>"
+    }
+  },
+  {
+    "id": 64,
+    "type": "team_member",
+    "fields": {
+      "image" : "Assistant-Mary.jpg",
+      "title": "Mary Walsh, Dental Assistant",
+      "slug": "mary-walsh",
+      "first_name": "Mary",
+      "last_name": "Walsh",
+      "group": "assistants",
+      "bio": "<p>\u201cI truly love what I do!\u201d, says Mary and she has been doing it for almost 40 years. As a dental assistant she enjoys talking and getting to know her patients. \u201cI like being part of SOBO, a group of terrific dentists and wonderful staff that create comfortable, family like atmosphere and always provide exceptional care\u201d. Mary lives in South Weymouth with her husband and their daughter. She is big Boston sports fan, and appreciates&nbsp; time spent on the beach, with family and friends, eating out and listening to country music. \u201cGo Red Sox! Go Patriots!\u201d<\/p>"
+    }
+  },
+  {
+    "id": 65,
+    "type": "team_member",
+    "fields": {
+      "image" : "AssistantJessica.jpg",
+      "title": "Jessica Gomes, Dental Assistant",
+      "slug": "jessica-gomes",
+      "first_name": "Jessica",
+      "last_name": "Gomes",
+      "group": "assistants",
+      "bio": "<p>Jessica has been a dental assistant for more than 20 years. She is drawn to dentistry because she loves working with people, getting to know her patients, making them as comfortable as possible as well as helping the doctor provide excellent dental care. When asked how dentistry has changed throughout the years, Jessica pauses to marvel at the new tools &amp; technology, but reminds us that putting patients first is still most important. When not in the office, Jessica enjoys travel, beach and most importantly, spending time with her 3 amazing daughters.<\/p>"
+    }
+  },
+  {
+    "id": 66,
+    "type": "team_member",
+    "fields": {
+      "image" : "Assistant-Zee.jpg",
+      "title": "\u017bibuole (Zee) Pliopliene, Dental Assistant",
+      "slug": "zibuole-pliopliene",
+      "first_name": "\u017bibuole",
+      "last_name": "Pliopliene",
+      "group": "assistants",
+      "bio": "<p>Zee gets her catchy name from the first letter of her Lithuanian birth name: \u201cZibuole.\u201d She jokes, \u201cBecause this name is hard to pronounce, I was given the nickname \u2018Zee.\u201d&nbsp;<\/p><p>Zee graduated from Vilnius University with a Masters in Library Science and upon moving to Massachusetts she completed her dental training at Maven Institute. Versed in English, Lithuanian, Russian, and Polish, Zee is SOBO\u2019s \u201cresident translator\u201d.&nbsp;<\/p><p>Zee enjoys helping the doctors achieve perfection in there work and is notable for the warm and calming influence she has on the patients. Additionally, Zee is an effective technician in the lab and fabricates SOBO\u2019s night guards, sports guards and retainers.&nbsp;<\/p><p>Coming from an artistic family, when time allows, Zee and her family turn to art exhibitions&nbsp; and music concerts for relaxation. Zee has been with SOBO for 8 years and loves her work in the practice.<\/p>"
+    }
+  }
+]

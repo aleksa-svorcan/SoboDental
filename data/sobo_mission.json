@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "type": "mission",
+  "fields": {
+    "title": "Education and Embracing Change",
+    "content":"<p>In today's world change happends quickly.</p><p>At Sobo Dental our most important objective is to provide our patients the highest level of care.Through our commitment to education and training,we are continually introduced to the newest methods and innovations in the field of Dentistry.By carefully integrating systems that make our patients more comfortable,embracing new proven methods in technology and working with high-grade materials,we know our patients receive the very best in oral health care.</p>"
+  }
+},{
+  "id": 2,
+  "type": "mission",
+  "fields": {
+    "title": "Active Listening",
+    "content": "<p>After 30 years Sobo Dental has established a wonderful community of unique and diverse patients.Even in our generational families,no two members have the exact needs or concerns.A key ingredient in providing the right care for a patient is to always listen for their individual concerns and issues.Our dentists do not suggest new treatments just because they are newest trend.We offer suggestions,options and alternatives so YOU the patient can make a most informed decision regarding the oral treatments that are right for you.</p>"
+  }
+},{
+  "id": 3,
+  "type": "mission",
+  "fields": {
+    "title": "Preventative Care",
+    "content": "<p>And of course,we at Sobo Dental strongly encourage preventative methods,for children and adults,to abate extensive problems.Regular visits,good oral hygiene and overall well-being will support a healthier mouth and greater self-esteem.Now,that is something to smile about!</p>"
+  }
+}]
