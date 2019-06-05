@@ -6,6 +6,7 @@
       </a>
     </div>
     <div class="buttons">
+    	<span></span>
       <button class="portal" v-if="!this.$store.state.isMemberOpen" v-scroll-to="'#Patients'">Patient Portal</button>
       <button class="nav-button" v-on:click="toggleSidebar">
         <div class="button-line-top" :class="{ movetop: this.isSidebarOpen }" />
