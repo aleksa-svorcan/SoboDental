@@ -16,7 +16,7 @@
     "granim": "^2.0.0",
     "gsap": "^2.0.2",
     "node-sass": "^4.10.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "vue-check-view": "^0.2.3",
